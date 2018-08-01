@@ -1,0 +1,55 @@
+	As we take our Galvanize journey, we are learning many new things about 
+    computers: how they think, how we interact with them, an appreciation for how 
+    omplex and powerful their applications are. Within the scope of that, we are 
+    learning about the many ways a we as developers can produce code that 
+    ourselves and others can read and understand. At the beginning, we were 
+    learning about JavaScript in terms of it being a functional language. However, 
+    since Javascript is a “minimalist” language. There are some ambiguities in its 
+    logic that make it very powerful with regard to “Object Oriented Programming.
+    
+
+	Object Oriented Programming is defined as such: a model that uses data and 
+    process as opposed to “actions and logic” That isn’t to say there is not logic 
+    in how JavaScript “thinks” in this regard. OOP is supported by 4 main 
+    characteristics: Encapsulation, Polymorphism, Abstraction, and Inheritance. 
+
+
+	Polymorphism is an attribute, which lets developers create functions with same 
+    name but different arguments, which will perform differently. That is function 
+    with same name, functioning in different way. Or, it also allows us to 
+    redefine a function to provide its new definition. We literally use this every 
+    day in class.
+
+
+	Abstraction refers to showing only the essential features of the application 
+    and hiding the details. Classes provide methods to the outside world to access
+    and use the data variables, but the variables are hidden from direct access. 
+    This can be done access specifiers. 
+
+
+	Inheritance is a way to reuse code. The class which is inherited from, is 
+    called the base class, and the class which inherits the code from the base 
+    class is called a derived class. A derived class can use all the functions 
+    which are defined in the base class, making the code reusable.
+
+
+	Encapsulation, finally is a developers way of separating interface from 
+    implementation (think JS libraries like lodash). The core idea of Object 
+    Oriented programming being a means to divide programs into small executables 
+    that manage themselves on their own.
+
+
+    There are many advantages to using these concepts as a developer. Chiefly, it 
+    allows objects to be easily reused in either the same code, or replaced in 
+    many smaller applications without any (hopefully) issue. Large programs are 
+    very difficult to write on your own or as a part of a team. Object Oriented 
+    Programs allow designers to be purposeful and planningful, which makes for 
+    tighter builds and less room for error. Apparently, as a result of the above 
+    features: once a program reaches a certain size, Object Oriented Programs are 
+    actually easier to program than non-Object Oriented ones. They are also easier
+    to maintain, as chunks of the program may be replaced or reworked as browsers
+    update, technology becomes better, etc. 
+
+
+    It’s a very powerful and exciting concept that I am excited to engage with 
+    more as we learn.
